@@ -139,6 +139,6 @@ Want to see more of projet ? Check my portfolio website to discover more or cont
 
 <br />
     <a href="https://rey-kosso.com/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1c30a346-702a-4cf3-8647-e970409de8e9" alt="Project Footer"/>
+      <img src="https://github.com/user-attachments/assets/98aabe2b-4772-4a67-bbff-f4e243ce1e47" alt="Project Footer"/>
     </a>
 <br />
