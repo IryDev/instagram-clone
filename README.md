@@ -1,9 +1,8 @@
 <div align="center">
-  <br />
     <a href="https://instagram-clone.vercel.app/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/d31e8be5-832b-4526-8de3-216405b0c0d6" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/ea04fd88-95a2-4fd8-be96-5b367a25649d" alt="Project Banner"/>
     </a>
-
+  <br />
   <br />
 
   <div>
@@ -19,15 +18,15 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
+1. 📱 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🗃️ [What's Inside](#whatsinside)
 4. ⚡ [Quick Start](#quick-start)
 5. 🚀 [More](#more)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">📱 Introduction</a>
 
-Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
+Explore an Instagram clone with a simple and stylish interface, allowing you to create and browse posts, enjoy fast data loading, and secure authentication for a smooth experience.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -35,34 +34,45 @@ Explore social media with this user-friendly platform that has a nice look and l
 - Appwrite
 - React Query
 - TypeScript
-- Shadcn
+- Ever UI
 - Tailwind CSS
 
 ## <a name="whatsinside">🗃️ What's Inside</a>
 
-👉 **Authentication System**: A robust authentication system ensuring security and user privacy
+**🔐 Secure Login System**: A powerful and secure system to protect user accounts and keep personal information private.
 
-👉 **Explore Page**: Homepage for users to explore posts, with a featured section for top creators
+**🔑 Password Recovery**: Forgot your password? No problem! Users can easily reset their password to regain access.
 
-👉 **Like and Save Functionality**: Enable users to like and save posts, with dedicated pages for managing liked and saved content
+**🌟 Discover Posts (Explore Page)**: A homepage where users can explore all posts, with a special section highlighting top creators.
 
-👉 **Detailed Post Page**: A detailed post page displaying content and related posts for an immersive user experience
+**❤️ Likes & Saves**: Users can like posts they enjoy and save them for later. Separate pages make it easy to view all liked and saved content.
 
-👉 **Profile Page**: A user profile page showcasing liked posts and providing options to edit the profile
+**📰 Post Details Page**: Dive deep into each post with a detailed page showing its content and related posts for more context.
 
-👉 **Browse Other Users**: Allow users to browse and explore other users' profiles and posts
+**👤 User Profile Page**: See all your liked posts and edit your personal details in your own profile space.
 
-👉 **Create Post Page**: Implement a user-friendly create post page with effortless file management, storage, and drag-drop feature
+**🔎 Discover Other Users**: Browse through profiles and posts from other users to connect and explore more content.
 
-👉 **Edit Post Functionality**: Provide users with the ability to edit the content of their posts at any time
+**✏️ Create & Manage Posts**: An intuitive post-creation page lets users easily upload files, manage storage, and use drag-and-drop features.
 
-👉 **Responsive UI with Bottom Bar**: A responsive UI with a bottom bar, enhancing the mobile app feel for seamless navigation
+**🛠️ Edit Posts Anytime**: Made a mistake or need to update something? Users can edit their posts at any time.
 
-👉 **React Query Integration**: Incorporate the React Query (Tanstack Query) data fetching library for, Auto caching to enhance performance, Parallel queries for efficient data retrieval, First-class Mutations, etc
+**📱🖥️ Mobile-First Responsive Design**: A user interface designed for all devices, complete with a bottom navigation bar for a smooth mobile app experience.
 
-👉 **Backend as a Service (BaaS) - Appwrite**: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage, and more
+**⚛️ React Query for Data Management**: Integration with React Query (Tanstack Query) brings:
 
-and many more, including code architecture and reusability
+- ⚡ Automatic caching for better performance
+- 🔄 Parallel data fetching for faster loading
+- ✅ Mutations to manage data changes smoothly
+
+**💾 Backend Powered by Appwrite**: Using Appwrite as a backend solution for:
+
+- 🔐 Authentication
+- 📂 File storage
+- 🗄 Database management
+- 🚀 And much more!
+
+**✨ Code Designed for Reuse**: The project features a clean, modular architecture that prioritizes code reusability and maintainability.
 
 ## <a name="quick-start">⚡ Quick Start</a>
 
@@ -74,7 +84,7 @@ Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [pnpm](https://www.pnpm.io/) (Performant Node Package Manager)
+- [pnpm](https://pnpm.io/) (Performant Node Package Manager)
 
 **Cloning the Repository**
 
@@ -86,6 +96,12 @@ cd instagram-clone
 **Installation**
 
 Install the project dependencies using npm:
+
+```bash
+pnpm install
+```
+
+**or**
 
 ```bash
 pnpm i
@@ -123,6 +139,6 @@ Want to see more of projet ? Check my portfolio website to discover more or cont
 
 <br />
     <a href="https://rey-kosso.com/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1c30a346-702a-4cf3-8647-e970409de8e9" alt="Project Footer">
+      <img src="https://github.com/user-attachments/assets/1c30a346-702a-4cf3-8647-e970409de8e9" alt="Project Footer"/>
     </a>
 <br />
